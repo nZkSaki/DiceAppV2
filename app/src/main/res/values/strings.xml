@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Dice roller</string>
+    <string name="dice_roller">Dice Roller</string>
+    <string name="RollButton">Roll</string>
+    <string name="DiceResult">Dice Rolled!</string>
+    <string name="resultado_do_dado">Resultado do Dado</string>
+    <string name="Numeric_result">Numeric_result</string>
+</resources>
